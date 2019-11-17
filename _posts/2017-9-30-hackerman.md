@@ -1,7 +1,10 @@
 ---
-layout: post
-title: Hackerman!
-tags: Jekyll 
+title: "Hackerman!"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Jekyll
 ---
 
 Sets up a GitHub Page, uses Jekyll to serve blog posts as static content, uploads the first blog post written in Markdown. Hackerman!
