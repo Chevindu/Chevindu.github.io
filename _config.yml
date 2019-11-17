@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-logo: "https://raw.githubusercontent.com/Chevindu/chevindu.github.io/master/images/logo.png"
-teaser: "https://raw.githubusercontent.com/Chevindu/chevindu.github.io/master/images/logo.png"
+logo: "/assets/images/bio-photo.jpg"
+teaser: "/assets/images/bio-photo.jpg"
 words_per_minute: 200
 
 twitter_username: Chevindu
