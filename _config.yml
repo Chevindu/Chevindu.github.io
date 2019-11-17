@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Chevindu Wickramathilaka"
+  name   : "Chevindu"
   avatar : "https://raw.githubusercontent.com/Chevindu/chevindu.github.io/master/images/logo.png"
   bio    : "Psychedelics, mechatronics and comics."
   links:
