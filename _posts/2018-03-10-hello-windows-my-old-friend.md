@@ -1,8 +1,12 @@
 ---
-layout: post
 title: Hello Windows, my old friend
-tags: windows hardware drivers gpu solidworks
-lang: en_US
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Windows
+  - Hardware drivers
+  - SolidWorks
 ---
 I've been using a MacBook for the past 3 years and I loved it absolutely; loved it so much that I almost forgot what Windows felt like. That was until yesterday. I bought a used Acer V5-573G ([benchmark](http://www.userbenchmark.com/PCBuilder/Custom/S3484-M2485.7928.3227.89289vsS3484-M2485.7928.3227.89289)).
 

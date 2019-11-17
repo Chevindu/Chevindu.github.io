@@ -1,8 +1,10 @@
 ---
-layout: post
 title: Torrenting ගැන
-tags: how torrenting works explain sinhala
-lang: si_LK
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Torrents
 ---
 
 මෙම ලිපියට ප්‍රධාන කොටස් තුනයි.
