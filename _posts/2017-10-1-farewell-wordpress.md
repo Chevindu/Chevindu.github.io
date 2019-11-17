@@ -1,12 +1,7 @@
 ---
-title: "සුභ ගමන්, WordPress."
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - Jekyll
-  - WordPress
-  - GitHub Pages
+layout: post
+title: සුභ ගමන්, WordPress.
+tags: Jekyll WordPress "GitHub Pages"
 ---
 
 මං මුලින්ම `WordPress` අතගාන්නෙ 2012 සැප්තැම්බර් වල. එතකොට මට බ්ලොග් රස්නෙ වැදුනා විතරයි; හැබැයි CMS ගැන නම් මෙලෝ හත්තිලව්වක් දැනගෙන හිටියෙ නෑ. ඉන්ටනෙට් තියෙන ඕන මිනිහක්ට ක්ෂණික-නූඩ්ල්ස් වගේ පණ්ඩිතයෙක් වෙන්න පුළුවන් බව හැමෝම දන්නවනෙ. මාත් දෙතුන් පාරක් ගූගල් එක එහෙම පෙරළලා, ක්ෂණික-නූඩ්ල්ස් පණ්ඩිතයෙක් වුණා.

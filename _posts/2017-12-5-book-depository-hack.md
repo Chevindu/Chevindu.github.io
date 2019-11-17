@@ -1,11 +1,8 @@
 ---
-title: "Book Depository සිදුර"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - Book Depository
-  - VPN
+layout: post
+title: Book Depository සිදුර
+tags: book depository vpn hack no shipping
+lang: si_LK
 ---
 
 Book Depository කියන්නේ මුළු ලෝකෙටම *“තැපැල් ගාස්තු අය නොකර”* පොත් බෙදාහරින ජනප්‍රිය සේවයක්; හිසරදයක් නොදෙන වෙළඳ-අඩවියක්. හැබැයි මේ විදිහට ගාස්තුවක් අය නොකර ලෝකෙටම පොත් යවන්නෙ කොහොමද? ඒකට උත්තර ගොඩක් තියෙනවා. හැබැයි මේගොල්ලොන්ගෙ ප්‍රධාන ආදායම IP Address මත පදනම්ව, **ගතික** භාණ්ඩ මිලක් ඉදිරිපත් කිරීම.

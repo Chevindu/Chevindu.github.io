@@ -1,10 +1,8 @@
 ---
-title: "Torrenting ගැන"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - Torrenting
+layout: post
+title: Torrenting ගැන
+tags: how torrenting works explain sinhala
+lang: si_LK
 ---
 
 මෙම ලිපියට ප්‍රධාන කොටස් තුනයි.
@@ -12,8 +10,6 @@ tags:
 1. Torrenting තාක්ෂණය ක්‍රියාත්මක වන ආකාරය
 2. Torrent files සොයාගන්නා ආකාරය
 3. Torrent files භාවිත කරන ආකාරය
-
-<!--more-->
 
 Torrenting තාක්ෂණය ක්‍රියාත්මක වන ආකාරය
 ---

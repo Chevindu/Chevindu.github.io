@@ -1,16 +1,10 @@
 ---
-title: "Hello Windows, my old friend"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
-tags:
-  - Windows
-  - Hardware drivers
-  - SolidWorks
+layout: post
+title: Hello Windows, my old friend
+tags: windows hardware drivers gpu solidworks
+lang: en_US
 ---
 I've been using a MacBook for the past 3 years and I loved it absolutely; loved it so much that I almost forgot what Windows felt like. That was until yesterday. I bought a used Acer V5-573G ([benchmark](http://www.userbenchmark.com/PCBuilder/Custom/S3484-M2485.7928.3227.89289vsS3484-M2485.7928.3227.89289)).
-
-<!--more-->
 
 My sole purpose to use it for product development, or specifically, to make basic Solidworks assemblies. The GPU felt like a good enough compromise for SWX, owing to my budget. Other hardware specs also should give a promising SWX experience, at least in theory. That was until I realized how painful Windows can become.
 
