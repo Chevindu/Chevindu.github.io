@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale: "si-LK"
-title: "Chevva's Hacks"
-title_separator: "-"
-subtitle: "Hellbound."
-name: "Chevindu"
+title: Chevva's Hacks
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+<<<<<<< HEAD
 url: "https://chevindu.github.io"
 logo: "https://raw.githubusercontent.com/Chevindu/chevindu.github.io/master/images/logo.png"
 words_per_minute: 200
 
+=======
+>>>>>>> parent of 2164df8... config edit
 twitter_username: Chevindu
 github_username: Chevindu
 minimal_mistakes_skin: dark
@@ -120,9 +120,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+<<<<<<< HEAD
 
 twitter:
   username: Chevindu
 facebook:
   username: chevindu
   app_id: 1981308052112025
+=======
+>>>>>>> parent of 2164df8... config edit
