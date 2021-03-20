@@ -5,10 +5,12 @@ layout: single
 {{ content }}
 
 <form id="my-contact-form" action="https://formspree.io/f/xqkwzkwn" method="POST">
+    <label>Name:</label>
+    <input type="text" name="name" required aria-required="true" />
     <label>Email:</label>
-    <input type="email" name="email" />
+    <input type="email" name="email" required aria-required="true" />
     <label>Message:</label>
-    <input type="text" name="message" />
+    <textarea type="text" name="message" required aria-required="true" />
     <button id="my-form-button">Submit</button>
     <p id="my-contact-form-status"></p>
   </form>
@@ -20,20 +22,21 @@ layout: single
       
       async function handleSubmit(event) {
         event.preventDefault();
-        var status = document.getElementById("my-contact-form-status");
-        var data = new FormData(event.target);
-        fetch(event.target.action, {
-          method: form.method,
-          body: data,
-          headers: {
-              'Accept': 'application/json'
-          }
-        }).then(response => {
-          status.innerHTML = "Thanks for your submission!";
-          form.reset()
-        }).catch(error => {
-          status.innerHTML = "Oops! There was a problem submitting your form"
-        });
+        console.log('========', event.target.value)
+        // var status = document.getElementById("my-contact-form-status");
+        // var data = new FormData(event.target);
+        // fetch(event.target.action, {
+        //   method: form.method,
+        //   body: data,
+        //   headers: {
+        //       'Accept': 'application/json'
+        //   }
+        // }).then(response => {
+        //   status.innerHTML = "Thanks for your submission!";
+        //   form.reset()
+        // }).catch(error => {
+        //   status.innerHTML = "Oops! There was a problem submitting your form"
+        // });
       }
       form.addEventListener("submit", handleSubmit)
   </script>
