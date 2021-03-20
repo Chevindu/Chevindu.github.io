@@ -22,23 +22,24 @@ layout: single
       
       async function handleSubmit(event) {
         event.preventDefault();
-        console.log('========name', event.target['0'].value)
-        console.log('========email', event.target['1'].value)
-        console.log('========value', event.target['2'].value)
-        // var status = document.getElementById("my-contact-form-status");
-        // var data = new FormData(event.target);
-        // fetch(event.target.action, {
-        //   method: form.method,
-        //   body: data,
-        //   headers: {
-        //       'Accept': 'application/json'
-        //   }
-        // }).then(response => {
-        //   status.innerHTML = "Thanks for your submission!";
-        //   form.reset()
-        // }).catch(error => {
-        //   status.innerHTML = "Oops! There was a problem submitting your form"
-        // });
+        const name = event.target['0'].value;
+        const email = event.target['0'].value;
+        const msg = event.target['0'].value;
+        var status = document.getElementById("my-contact-form-status");
+        status.innerHTML = "Hold on..."
+        var data = new FormData(event.target);
+        fetch(event.target.action, {
+          method: form.method,
+          body: data,
+          headers: {
+              'Accept': 'application/json'
+          }
+        }).then(response => {
+          status.innerHTML = `Thanks for your message, ${name}!`;
+          form.reset()
+        }).catch(error => {
+          status.innerHTML = "Oops! There was a problem submitting your message."
+        });
       }
       form.addEventListener("submit", handleSubmit)
   </script>
