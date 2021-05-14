@@ -1,0 +1,23 @@
+.utterances .utterances-frame {
+    .timeline-comment {
+        form.comment {
+            background-color: #252a34;
+            border-color: #3d4046;
+        }
+
+        header.tabnav {
+            background-color: #1f242c;
+            border-color: #3d4046;
+
+            .tabnav-tab[aria-selected="true"] {
+                background-color: #1e222a;
+                border-color: #3d4046;
+            }
+        }
+
+        .comment-body .form-control {
+            background-color: #1f242c;
+            border-color: #3d4046;
+        }
+    }
+}
