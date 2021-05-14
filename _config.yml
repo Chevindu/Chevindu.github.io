@@ -30,6 +30,8 @@ search: true
 search_full_content: true
 comments:
   provider: utterances
+  utterances:
+    theme: github-dark
 
 # Build settings
 markdown: kramdown
