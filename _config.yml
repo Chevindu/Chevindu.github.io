@@ -28,6 +28,7 @@ github_username: Chevindu
 minimal_mistakes_skin: dark
 search: true
 search_full_content: true
+repository: Chevindu/chevindu.github.io
 comments:
   provider: utterances
   utterances:
