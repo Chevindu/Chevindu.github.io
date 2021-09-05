@@ -23,7 +23,7 @@ tags:
 	<figcaption>Marvel සිනමාවේ එන Spider Man</figcaption>
 </figure>
 
-{% include lightbox.html img_url="https://res.cloudinary.com/chevindu/image/upload/v1630844699/spider-silk/SpiderSilk_1_wv88ku.jpg" caption="Marvel සිනමාවේ එන Spider Man" alt="spider man from movies" %}
+{% include lightbox.html image_path="https://res.cloudinary.com/chevindu/image/upload/v1630844699/spider-silk/SpiderSilk_1_wv88ku.jpg" caption="Marvel සිනමාවේ එන Spider Man" alt="spider man from movies" %}
 
 මකුළු දැල් තන්තු විදිහට තිබුණත්, මකුළුවා ඒවා සිරුරේ ගබඩා කරන් ඉන්නෙ ඉතාමත් උකු ද්‍රවයක් විදිහට. මකුළු දැල්වල ව්‍යුහය හැදිලා තියෙන්නෙ ඇමිනෝ අම්ල දාමවලින් (මූලික ම ඇමිනෝ අම්ල දෙක තමයි ග්ලයිසීන් සහ ඇලනීන්). සරලව ම කිව්වොත්, ඒක ප්‍රෝටීනයක්. මේ ප්‍රෝටීන දාම සකස්වෙලා තිබෙන විදිහ වෙනස් වීම අනුව, දැල් වර්ග හතක් (වෙනස් ග්‍රන්ථි හතකින්) නිපදවන්න මකුළුවන්ට පුළුවන්. ඒ වුණාට හැම මකුළුවාට ම වර්ග හතක දැල් බඳින්න බැහැ, නමුත් පිරිමි සත්ත්වයෙක්ට අඩුම තරමේ ග්‍රන්ථි වර්ග තුනක් හෝ පිහිටලා තිබෙනවා.
 
