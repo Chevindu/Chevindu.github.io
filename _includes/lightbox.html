@@ -5,8 +5,8 @@
 {% endif %}
 
 <figure class="{{ include.class }}">
-    <a href={{ img_url }} class="image-popup">
-        <img src={{ img_url }} alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+    <a href="{{ img_url }}" class="image-popup">
+        <img src="{{ img_url }}" alt="{% if include.alt %}{{ include.alt }}{% endif %}">
     </a>
     {% if include.caption %}
     <figcaption>
