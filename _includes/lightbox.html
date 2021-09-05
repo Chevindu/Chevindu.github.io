@@ -1,0 +1,16 @@
+{% if include.image_path contains "://" %}
+    {% assign img_url = include.image_path %}
+{% else %}
+    {% assign img_url = include.image_path | relative_url %}
+{% endif %}
+
+<figure class="{{ include.class }}">
+    <a href={{ img_url }} class="image-popup">
+        <img src={{ img_url }} alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+    </a>
+    {% if include.caption %}
+    <figcaption>
+        {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+    </figcaption>
+    {% endif %}
+</figure>
