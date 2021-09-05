@@ -2,7 +2,7 @@
 title: "විස්මිත මකුළු දැල්"
 excerpt: "මකුළු දැල් ගැන අපි දන්නා ද‌ේ ට වඩා න‌ොදන්නා ද‌ේ බ‌ොහ‌ෝ වැඩියි. මේ පරීක්ෂණය ඒ ගැනයි."
 header:
-  overlay_image: https://res.cloudinary.com/chevindu/image/upload/v1575393816/Cover_ttrvkq.jpg
+  overlay_image: https://res.cloudinary.com/chevindu/image/upload/v1630844899/spider-silk/Cover_zusa8v.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Pinterest**](https://pinterest.com)"
   actions:
@@ -19,7 +19,7 @@ tags:
 සාමාන්‍ය ව්‍යවහාරයට අනුව, පැන්සලක හරස්කඩ වර්ගඵලයක් තියෙන මකුළු දැල් තන්තුවකට, ගුවනේ ඇති Boeing 747 යෝධ ගුවන්යානයක ගමන නැවැත්වීමට පුළුවන්. ඒ ප්‍රකාශයේ යම් අඩු-ලුහුඬුකම් තිබුණත්, මකුළු දැල් තන්තුවක ශක්තිය ගැන දළ අවබෝධයක් අපිට ගන්න ඒක උදව් වෙනවා. යාන්ත්‍රික ගුණවලට අමතර ව ක්ෂුද්‍රජීවීන් විනාශ කිරීමේ හැකියාව, අසාත්මිකතාවලින් තොර වීම, සහ ස්වභාවික ව ක්ෂය වීමේ හැකියාව ද මකුළු සේද සතු යි. විද්‍යාඥයන් මකුළු සේද ගැන මේ තරම් අධ්‍යයනය කරන්නෙ කවදාහරි මේ වගේ ද්‍රව්‍යයක් කෘත්‍රිම ව නිපදවීමේ අදහසිනුයි.
 
 <figure>
-	<a href="https://res.cloudinary.com/chevindu/image/upload/v1575393821/SpiderSilk_1_o6mcnr.jpg" class="image-popup"><img src="https://res.cloudinary.com/chevindu/image/upload/v1575393821/SpiderSilk_1_o6mcnr.jpg" alt="SpiderSilk_1"></a>
+	<a href="https://res.cloudinary.com/chevindu/image/upload/v1630844699/spider-silk/SpiderSilk_1_wv88ku.jpg" class="image-popup"><img src="https://res.cloudinary.com/chevindu/image/upload/v1630844699/spider-silk/SpiderSilk_1_wv88ku.jpg" alt="SpiderSilk_1"></a>
 	<figcaption>Marvel සිනමාවේ එන Spider Man</figcaption>
 </figure>
 
@@ -30,14 +30,14 @@ tags:
 මකුළු දැලක තිබෙන හැම තන්තුවක් ම ඇලෙනසුළු නැහැ. අපි එදිනෙදා දකින සාමාන්‍ය මකුළු දැලක සැකැස්ම තියෙන්නේ කේන්ද්‍රයේ ඉඳලා අරීය ව පිටතට විහිදුණු (බයිසිකල් රෝදෙක කූරු වගේ) තන්තුවලින්, සහ ඒවා උඩින් අතුරපු (පැණි වළල්ලක් වගේ තියෙන) ඇලෙනසුළු දාමවලින්. මේ කොටස් දෙක හදන්න මකුළුවා තමන්ගෙ ග්‍රන්ථි දෙකක සේද පාවිච්චි කරනවා. ඒ නිසයි එක තන්තු ජාතියක් ඇලෙනසුළු වුණාට, අනිත් එක එහෙම නැත්තෙ.
 
 <figure>
-	<a href="https://res.cloudinary.com/chevindu/image/upload/v1575393819/SpiderSilk_2_hsbm0r.jpg" class="image-popup"><img src="https://res.cloudinary.com/chevindu/image/upload/v1575393819/SpiderSilk_2_hsbm0r.jpg" alt="SpiderSilk_2"></a>
+	<a href="https://res.cloudinary.com/chevindu/image/upload/v1630844701/spider-silk/SpiderSilk_2_drliob.jpg" class="image-popup"><img src="https://res.cloudinary.com/chevindu/image/upload/v1630844701/spider-silk/SpiderSilk_2_drliob.jpg" alt="SpiderSilk_2"></a>
 	<figcaption>Jesse Barkerගේ Flickr ගිණුමෙන්</figcaption>
 </figure>
 
 මකුළු දැලක පැටලුණා ම අපිට දැනෙන ඇලෙනසුළු බව ඒකට ලැබෙන්නෙ, මකුළුවාගෙ උදරයේ තියෙන ග්‍රන්ථියකින්. මේ ග්‍රන්ථියෙන් ස්‍රාවය වන ද්‍රව බිඳිති, සේද තන්තු දිගේ තැනින් තැන අතුරලයි තියෙන්නෙ. මේ විශේෂිත ඇලෙනසුළු ද්‍රවය සමන්විත වෙන්නේ ස්වභාවික බහුඅවයවිකයකින්. විශේෂිත කියන්න හේතුව තමයි, මේකේ ඇලෙනසුළු බවට වතුරෙන් බාධාවක් නැතිවීම. ඒ ගැන කරපු වැඩිදුර පර්යේෂණ ගැන [මෙතනින්](https://www.livescience.com/8934-scientists-untangled-spider-web-stickiness.html) කියවන්න පුළුවන්.
 
 <figure>
-	<a href="https://res.cloudinary.com/chevindu/image/upload/v1575393814/SpiderSilk_3_pajfhh.jpg" class="image-popup"><img src="https://res.cloudinary.com/chevindu/image/upload/v1575393814/SpiderSilk_3_pajfhh.jpg" alt="SpiderSilk_3"></a>
+	<a href="https://res.cloudinary.com/chevindu/image/upload/v1630844684/spider-silk/SpiderSilk_3_jxejlk.jpg" class="image-popup"><img src="https://res.cloudinary.com/chevindu/image/upload/v1630844684/spider-silk/SpiderSilk_3_jxejlk.jpg" alt="SpiderSilk_3"></a>
 	<figcaption>Latrodectus geometricusගේ ඇලෙනසුළු සේද තන්තු. පින්තූරය: Donald W. Hall</figcaption>
 </figure>
 
@@ -50,14 +50,14 @@ Nephila edulis මකුළුවෙකුගේ ඇලෙනසුළු සේ
 Uloborus plumipes හෙවත් Garden Centre Spider ලෙස ඉංග්‍රීසි යෙදුමෙන් හැඳින්වෙන මකුළුවා තමන්ගෙ සේදවලට අමුතු වැඩක් කරනවා. එයා සේද තන්තු දිගේ අපි කලින් කතා කළ ඇලෙන ද්‍රවය අතුරන්නෙ නැහැ. ඒ වෙනුවට තන්තු ශරීරයෙන් නිකුත් කරන ගමන් එයා පිටිපස්සෙ පාදවලින් ඒවා රටාවකට පිරිමදිනවා. මෙයා මේක ඉතාමත් වේගයෙන් සහ රටාව නොවෙනස් ව කරනවා. ස්ථිති විද්‍යුත් ආරෝපණය ගැන අත්දැකීම් තියෙන අය දන්නවා අලෝහ වස්තු දෙකක් දිගටම පිරිමදිද්දී ඇතිවෙන මේ සංසිද්ධිය ගැන. (දන්නැති අය විනාඩි 4ක් වැය කරලා [මේක බලන්න](https://www.youtube.com/watch?v=yc2-363MIQs)). සේදයේ එහෙම පිරිමදින තැන්වල ස්ථිතික ආරෝපණ රැස්වෙලා, පුළුන් ගුලි වගේ සැකැස්මක් හැදෙනවා. මේ පුළුන් ගුලි තන්තුවල ඇති අතිශය සියුම් බව නිසා ඇතිවන වැන්ඩ’වාල් ආකර්ෂණයට අමතර ව, තන්තු පිරිමදිද්දී ලැබුණු ස්ථිති විද්‍යුත් ආරෝපණ නිසා, මේ මකුළු දැල් ඉතාමත් ඇලෙනසුළු වෙනවා. ඒ ගැන 2015 දී [පර්යේෂණ වාර්තාවක්](http://rsbl.royalsocietypublishing.org/content/11/1/20140813) පවා නිකුත් වුණා.
 
 <figure>
-	<a href="https://res.cloudinary.com/chevindu/image/upload/v1575393816/SpiderSilk_4_epprq2.jpg" class="image-popup"><img src="https://res.cloudinary.com/chevindu/image/upload/v1575393816/SpiderSilk_4_epprq2.jpg" alt="SpiderSilk_4"></a>
+	<a href="https://res.cloudinary.com/chevindu/image/upload/v1630844694/spider-silk/SpiderSilk_4_o8gh6q.jpg" class="image-popup"><img src="https://res.cloudinary.com/chevindu/image/upload/v1630844694/spider-silk/SpiderSilk_4_o8gh6q.jpg" alt="SpiderSilk_4"></a>
 	<figcaption>මකුළුවන් සතු සේද කටින සැකැස්මේ කොටසක වර්ණ-සංස්කරණය කළ SEM පින්තූරයක්. අනුග්‍රාහය: Katrin Kronenberger (ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලය)</figcaption>
 </figure>
 
 Uloborus සතු මෙම පෙනේරයක් වැනි සැකැස්මෙහි සිදුරක විෂ්කම්භය නැනෝමීටර 50ක් පමණ වන අතර, දිගින් නැනෝමීටර 500ක් පමණ තන්තු එයින් නිකුත් වෙනවා. අප එදිනෙදා දකිනා මකුළු දැල් තන්තුවක් කියන්නෙ මේ වගේ සියුම් සේද තන්තු රාශියක් පටලවා, පිරිමැද සෑදූ කඹයක් වැනි නූලක්. අපි අලුත් අවුරුද්දට ගෙවල් පිරිසිදු කරද්දී කඩලා බිඳලා දාන්නෙ සොබාදහමේ කොච්චර විශ්මිත නිර්මාණයක් ද කියලා තේරුණා ද දැන්?
 
 <figure>
-	<a href="https://res.cloudinary.com/chevindu/image/upload/v1575393816/SpiderSilk_5_eksrfz.jpg" class="image-popup"><img src="https://res.cloudinary.com/chevindu/image/upload/v1575393816/SpiderSilk_5_eksrfz.jpg" alt="SpiderSilk_5"></a>
+	<a href="https://res.cloudinary.com/chevindu/image/upload/v1630844692/spider-silk/SpiderSilk_5_xw9cyn.jpg" class="image-popup"><img src="https://res.cloudinary.com/chevindu/image/upload/v1630844692/spider-silk/SpiderSilk_5_xw9cyn.jpg" alt="SpiderSilk_5"></a>
 	<figcaption>මකුළුවන් සතු සේද කටින සැකැස්මේ කොටසක වර්ණ-සංස්කරණය කළ SEM පින්තූරයක්. අනුග්‍රාහය: Katrin Kronenberger (ඔක්ස්ෆර්ඩ් විශ්වවිද්‍යාලය)</figcaption>
 </figure>
 
