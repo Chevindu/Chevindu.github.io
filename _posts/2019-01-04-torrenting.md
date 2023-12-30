@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - Torrents
+locale: si
 ---
 
 මෙම ලිපියට ප්‍රධාන කොටස් තුනයි.

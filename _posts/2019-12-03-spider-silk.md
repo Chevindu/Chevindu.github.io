@@ -3,7 +3,7 @@ title: "විස්මිත මකුළු දැල්"
 excerpt: "මකුළු දැල් ගැන අපි දන්නා ද‌ේ ට වඩා න‌ොදන්නා ද‌ේ බ‌ොහ‌ෝ වැඩියි. මේ පරීක්ෂණය ඒ ගැනයි."
 header:
   overlay_image: https://res.cloudinary.com/chevindu/image/upload/v1630844899/spider-silk/Cover_zusa8v.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Pinterest**](https://pinterest.com)"
   actions:
     - label: "Wikipedia Page"
@@ -12,6 +12,7 @@ categories:
   - blog
 tags:
   - Spider Silk
+locale: si
 ---
 
 දියමන්ති (කාබන් හි ශක්තිමත් ම බහුරූපී ආකාරය) කියන්නේ ඉතාමත් දෘඩ ද්‍රව්‍යයක් බව ඔබ අසා ඇති. ඊට ශක්තියෙන් සම කරන්නට හෝ අභිබවා යන්නට පුළුවන් ද්‍රව්‍ය (කාබන්-නිනිති නල, කෙව්ලා, නයිලෝන්) නිර්මාණය කරන්නට මිනිසාට සියවස් ගණනාවක් ගත වුණා. හැබැයි මකුළුවන් දැනට වසර මිලියන 380ක පමණ ප්‍රාග් ඓතිහාසික යුගයේ ඉඳන් සාර්ථක ව මේ වැඩේ කරනවා. ඒ තමයි, මකුළු දැල් විවීම.
